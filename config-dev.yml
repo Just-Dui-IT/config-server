@@ -1,0 +1,4 @@
+alipay:
+  url: www.alipay.com/pay/
+  username: ali
+  password: 123456
